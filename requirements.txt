@@ -1,0 +1,7 @@
+quandl
+pandas
+numpy
+scikit-learn
+matplotlib
+cvxopt
+xlrd
